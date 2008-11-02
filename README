@@ -1,0 +1,18 @@
+Contact form generator
+======================
+
+In almost every app I create there is a contact form. Since I repeat the same steps over and over I decided to create a contact form generator.
+
+The generator gives you a good starting point for further modifications. Specs will be generated if rspec is available.
+
+
+Dependencies: ActiveForm plugin
+
+
+Example
+=======
+
+script/generate contact_form
+
+
+Copyright (c) 2008 Christian Felder (www.masone.ch), released under the MIT license
