@@ -1,9 +1,11 @@
 Contact form generator
 ======================
 
-In almost every app I create there is a contact form. Since I repeat the same steps over and over I decided to create a contact form generator.
+In almost every app I create there is a contact form. Since I repeat the same steps 
+over and over I decided to create a contact form generator.
 
-The generator gives you a good starting point for further modifications. Specs will be generated if Rspec is available.
+The generator gives you a good starting point for further modifications. 
+Specs will be generated if Rspec is available.
 
 
 Dependencies: ActiveForm plugin

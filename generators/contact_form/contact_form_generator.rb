@@ -16,6 +16,7 @@ class ContactFormGenerator < Rails::Generator::Base
         if has_rspec?
           m.directory "spec/models"          
           m.file "spec/models/contact_handler_spec.rb", "spec/models/contact_handler_spec.rb"
+          m.file "spec/models/contact_mailer_spec.rb", "spec/models/contact_mailer_spec.rb"          
 
           m.directory "spec/controllers"          
           m.file "spec/controllers/contact_controller_spec.rb", "spec/controllers/contact_controller_spec.rb"
