@@ -13,5 +13,5 @@
 
   * Configure the mail recipient settings in app/models/contact_mailer.rb
 
-	* Notice that the plugin generated specs if Rspec is installed
+  * Notice that the plugin generated specs if Rspec is installed
 
